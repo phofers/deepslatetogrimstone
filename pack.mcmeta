@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 22,
+    "supported_formats": {
+      "min_inclusive": 7,
+      "max_inclusive": 22
+    },
     "description": "Switches Deepslate to Grimstone from 21w07a"
   }
 }
