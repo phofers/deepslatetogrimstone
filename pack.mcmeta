@@ -3,8 +3,8 @@
     "pack_format": 22,
     "supported_formats": {
       "min_inclusive": 7,
-      "max_inclusive": 22
+      "max_inclusive": 9999
     },
-    "description": "Switches Deepslate to Grimstone from 21w07a"
+    "description": "Renames §8'Deepslate' §7to §8'Grimstone' §7- for §d1.17+" 
   }
 }
